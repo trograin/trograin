@@ -42,7 +42,7 @@ I am deeply invested in the intersection of **Autonomous Systems** and **Environ
 ---
 
 ### Connect & Collaborate
-* **LinkedIn:** [linkedin.com/in/oliver-alempijevic](https://www.linkedin.com/in/bobanalempijevic/)
+* **LinkedIn:** [linkedin.com/in/bobanalempijevic](https://www.linkedin.com/in/bobanalempijevic/)
 * **Organization:** [ArcteonSpace](https://github.com/ArcteonSpace)
 
 ---
