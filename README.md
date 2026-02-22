@@ -1,14 +1,49 @@
-- 👋 Hi, I’m @trograin
-- 👀 I’m interested in Space and knowledge, and continuously learning and expanding my own horizon.
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me wherever I am at the moment online or offline (https://www.linkedin.com/in/bobanalempijevic/ or https://www.instagram.com/studiotrograin/)
+# Oliver Alempijevic
 
-I use Github mainly for fun projects. It means I actually follow online tutorials to see and learn how others set up projects and solve their problems. I find this relaxing, but by no means am I demeaning online YouTube projects, I do not use GitHub to put up projects to showcase how I think in developing code. Let me put it this way: I follow the textbook way of solving problems. So when I put up a Next.js project, I will follow the Next.js manual and handbooks. The simpler a solution can be, the happier I am. I have found that a lot of times, we developers love complicating things. This is because we usually think First code, second code, third code, and MAYBE, just MAYBE by the fourth level, we think about how people actually use the code and if they even need our solutions the way we think they need them. 
+**Technical Leader | Systems Architect | Product Strategist**
 
-I guess that my academic training in sociology and scientific research, and my love for anything UX, is rubbing off on my way of thinking about software development.
+I specialize in **Intuitive Pattern Recognition**—bridging complex technical architectures with scalable business outcomes. Currently leading the technical vision for **Freyr** at **ArcteonSpace**, architecting sovereign geospatial intelligence for the Nordic agricultural sector.
 
-<!---
-trograin/trograin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Core Focus: ArcteonSpace
+I am currently spearheading the development of **Freyr**, a proprietary precision agriculture platform. My focus is on maintaining a "Hardened" technical posture while delivering intuitive, high-value tools for the modern farmer.
+
+* **Role:** Tech Lead / Founder
+* **Mission:** Solving the "Complexity Gap" in satellite data through sovereign, EU-based infrastructure.
+* **Roadmap:** [View the Freyr Public Roadmap](https://github.com/ArcteonSpace/Freyr-Product-Roadmap)
+
+---
+
+### Technical Arsenal
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Angular, TypeScript |
+| **Backend** | Python, Django, Node.js |
+| **Specialized** | LLMs, Machine Learning, Automation |
+| **Strategy** | Technical Project Management, Pattern Recognition, System Hardening |
+
+---
+
+### Professional Background
+* **Founder & Tech Lead** @ ArcteonSpace (Current)
+* **Former CTO** @ Reusable Plastics Industry (Sweden) — *Focused on industrial scale-up and circular economy tech integration.*
+* **Project Manager** — *Applying agile methodologies to high-stakes, proprietary hardware/software environments.*
+
+---
+
+### Research & Interests
+I am deeply invested in the intersection of **Autonomous Systems** and **Environmental Intelligence**. 
+* Exploring the limits of **LLMs** in structured data synthesis.
+* Implementing **IoT** sensor arrays for hyper-local environmental monitoring.
+* Advocating for **European Data Sovereignty** and secure infrastructure.
+
+---
+
+### Connect & Collaborate
+* **LinkedIn:** [linkedin.com/in/oliver-alempijevic](https://www.linkedin.com/in/bobanalempijevic/)
+* **Organization:** [ArcteonSpace](https://github.com/ArcteonSpace)
+
+---
+> *“Complexity is a distraction; patterns are the signal.”*
